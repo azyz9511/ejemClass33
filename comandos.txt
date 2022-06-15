@@ -1,0 +1,2 @@
+git remote add origin "url del repositorio en github" //indicarle a github cual es el repositorio
+git add . // añadir todos los archivos a la stage area
